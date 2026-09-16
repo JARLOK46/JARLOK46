@@ -94,8 +94,18 @@
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JARLOK46&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&bg_color=0d1117&text_color=8b949e&icon_color=00d4a8&title_color=00d4a8" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARLOK46&layout=compact&hide_border=true&hide_title=true&langs_count=6&bg_color=0d1117&text_color=8b949e&title_color=00d4a8" alt="Most used programming languages" />
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%">
+        <h3>⚡ GitHub statistics</h3>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=JARLOK46&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&icon_color=00d4a8&title_color=00d4a8&custom_title=GitHub%20activity" alt="GitHub statistics card" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3>◈ Most used languages</h3>
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JARLOK46&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&text_color=f0f6fc&title_color=00d4a8&card_width=400" alt="Most used programming languages card" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
