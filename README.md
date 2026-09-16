@@ -14,7 +14,7 @@
 
   <p>
     <a href="#about">About</a> &nbsp;|&nbsp;
-    <a href="#toolkit">Toolkit</a> &nbsp;|&nbsp;
+    <a href="#toolkit">Toolkit<j/a> &nbsp;|&nbsp;
     <a href="#learning-map">Learning map</a> &nbsp;|&nbsp;
     <a href="#github-activity">GitHub activity</a>
   </p>
