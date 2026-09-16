@@ -16,35 +16,56 @@
 
 </div>
 
+## Contribution trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+</div>
+
 ## About
 
-I am **Anderson**, a software development student from **Colombia**, currently studying the **ADSO program at SENA**. I like learning by building practical solutions, understanding how systems fit together, and documenting ideas clearly.
-
-My current interests are **backend logic, databases, automation, and artificial intelligence**.
+<table>
+  <tr>
+    <td width="64%" valign="top">
+      <h3>Anderson</h3>
+      <p>Software development student from <strong>Colombia</strong>, currently studying the <strong>ADSO program at SENA</strong>.</p>
+      <p>I learn by building practical solutions, understanding how systems fit together, and documenting ideas clearly.</p>
+    </td>
+    <td width="36%" valign="top">
+      <strong>Exploring</strong><br /><br />
+      Backend logic<br />
+      Databases<br />
+      Automation<br />
+      Artificial intelligence
+    </td>
+  </tr>
+</table>
 
 ## Toolkit
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="top" width="50%"><strong>Languages</strong><br /><br />Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript<br />HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; SQL</td>
+      <td align="center" valign="top" width="50%"><strong>Tools</strong><br /><br />Supabase &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Draw.io<br />Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code</td>
+    </tr>
+  </table>
+</div>
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&perline=8" alt="Java, Python, JavaScript, HTML, CSS, Git, GitHub and VS Code" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion" />
-<img src="https://img.shields.io/badge/Draw.io-0d1117?style=for-the-badge&logo=diagrams.net&logoColor=F08705" alt="Draw.io" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&perline=8" alt="Java, Python, JavaScript, HTML, CSS, Git, GitHub and VS Code" />
 </div>
 
 ## Focus areas
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="25%"><strong>Development</strong><br />Java · Python · JavaScript</td>
-    <td align="center" width="25%"><strong>Data</strong><br />SQL · Databases · Supabase</td>
-    <td align="center" width="25%"><strong>Systems</strong><br />Automation · Artificial intelligence</td>
-    <td align="center" width="25%"><strong>Workflow</strong><br />Documentation · Diagrams · Git</td>
+    <td valign="top" width="50%"><strong>Build</strong><br /><br />Java, Python, JavaScript, HTML and CSS</td>
+    <td valign="top" width="50%"><strong>Connect</strong><br /><br />SQL, databases and Supabase</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%"><strong>Explore</strong><br /><br />Automation and artificial intelligence</td>
+    <td valign="top" width="50%"><strong>Organize</strong><br /><br />Documentation, diagrams, Git and GitHub</td>
   </tr>
 </table>
 
@@ -61,16 +82,10 @@ My current interests are **backend logic, databases, automation, and artificial 
   <img src="https://streak-stats.demolab.com?user=JARLOK46&hide_border=true&background=0D1117&ring=00D4A8&fire=F78166&currStreakLabel=00D4A8&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 </div>
 
-## Contribution trail
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
-</div>
-
 <div align="center">
 
 ### Keep learning. Keep building.
 
-<a href="https://github.com/JARLOK46?tab=repositories">Explore the repositories →</a>
+<a href="https://github.com/JARLOK46?tab=repositories">Explore the repositories -&gt;</a>
 
 </div>
