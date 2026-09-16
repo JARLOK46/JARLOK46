@@ -24,50 +24,72 @@
 
 ## About
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:123a46,100:00d4a8&height=3&section=header" alt="Teal gradient divider" />
+</div>
+
 <table>
   <tr>
-    <td width="64%" valign="top">
-      <h3>Anderson</h3>
-      <p>Software development student from <strong>Colombia</strong>, currently studying the <strong>ADSO program at SENA</strong>.</p>
-      <p>I learn by building practical solutions, understanding how systems fit together, and documenting ideas clearly.</p>
+    <td width="58%" valign="top">
+      <h3>Anderson · Colombia</h3>
+      <p>Software development student in the <strong>ADSO program at SENA</strong>.</p>
+      <p><em>A focused space for the technologies, tools, and subjects currently shaping my learning path.</em></p>
     </td>
-    <td width="36%" valign="top">
-      <strong>Exploring</strong><br /><br />
-      Backend logic<br />
-      Databases<br />
-      Automation<br />
-      Artificial intelligence
+    <td width="42%" valign="top">
+      <p><strong>Current orbit</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Backend-0d1117?style=flat-square&logo=serverless&logoColor=00d4a8" alt="Backend" /><br />
+        <img src="https://img.shields.io/badge/Databases-0d1117?style=flat-square&logo=databricks&logoColor=00d4a8" alt="Databases" /><br />
+        <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square&logo=githubactions&logoColor=00d4a8" alt="Automation" /><br />
+        <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&logo=openai&logoColor=00d4a8" alt="Artificial intelligence" />
+      </p>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4a8,50:123a46,100:161b22&height=3&section=footer" alt="Teal gradient divider" />
+</div>
 
 ## Toolkit
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" valign="top" width="50%"><strong>Languages</strong><br /><br />Java &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript<br />HTML &nbsp;·&nbsp; CSS &nbsp;·&nbsp; SQL</td>
-      <td align="center" valign="top" width="50%"><strong>Tools</strong><br /><br />Supabase &nbsp;·&nbsp; Notion &nbsp;·&nbsp; Draw.io<br />Git &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; VS Code</td>
+      <td align="center" valign="top" width="50%">
+        <h3>Languages</h3>
+        <img src="https://skillicons.dev/icons?i=java,python,js,html,css&perline=5" alt="Java, Python, JavaScript, HTML and CSS" /><br />
+        <sub>Java · Python · JavaScript · HTML · CSS · SQL</sub>
+      </td>
+      <td align="center" valign="top" width="50%">
+        <h3>Tools</h3>
+        <img src="https://skillicons.dev/icons?i=supabase,git,github,vscode&perline=4" alt="Supabase, Git, GitHub and VS Code" /><br />
+        <sub>Supabase · Notion · Draw.io · Git · GitHub · VS Code</sub>
+      </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode&perline=8" alt="Java, Python, JavaScript, HTML, CSS, Git, GitHub and VS Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1100&color=8B949E&center=true&vCenter=true&width=520&lines=Java+%2F+Python+%2F+JavaScript;HTML+%2F+CSS+%2F+SQL;Supabase+%2F+Git+%2F+GitHub" alt="Toolkit rotation" />
 </div>
 
 ## Focus areas
 
-<table>
-  <tr>
-    <td valign="top" width="50%"><strong>Build</strong><br /><br />Java, Python, JavaScript, HTML and CSS</td>
-    <td valign="top" width="50%"><strong>Connect</strong><br /><br />SQL, databases and Supabase</td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%"><strong>Explore</strong><br /><br />Automation and artificial intelligence</td>
-    <td valign="top" width="50%"><strong>Organize</strong><br /><br />Documentation, diagrams, Git and GitHub</td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><h3>01</h3><strong>Build</strong><br /><sub>Java · Python<br />JavaScript · HTML · CSS</sub></td>
+      <td align="center" width="25%"><h3>02</h3><strong>Connect</strong><br /><sub>SQL · databases<br />Supabase</sub></td>
+      <td align="center" width="25%"><h3>03</h3><strong>Explore</strong><br /><sub>Automation<br />Artificial intelligence</sub></td>
+      <td align="center" width="25%"><h3>04</h3><strong>Organize</strong><br /><sub>Notion · Draw.io<br />Git · GitHub</sub></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,50:00d4a8,100:123a46&height=3&section=footer" alt="Teal gradient divider" />
+</div>
 
 ## GitHub activity
 
